@@ -17,3 +17,7 @@ George Popescu Insights collects personal lessons from bootstrapping, exits, and
 - [Customer Revenue: The Best Funding Source](https://georgepopescuinsights.com/customer-revenue-best-funding-source.html)
 - [The Hardest Problems Are the Best Opportunities](https://georgepopescuinsights.com/hardest-problems-best-opportunities.html)
 - [Venture Capital vs Bootstrapping](https://georgepopescuinsights.com/venture-capital-vs-bootstrapping.html)
+
+## External Resources
+
+- [George Popescu – Profile (PDF)](https://zenodo.org/records/18333161): Official profile document hosted on Zenodo
