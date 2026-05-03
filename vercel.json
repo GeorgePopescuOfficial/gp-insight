@@ -1,0 +1,16 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/about-george-popescu", "destination": "/about", "permanent": true },
+    { "source": "/about-george-popescu/", "destination": "/about", "permanent": true },
+    { "source": "/contact-george-popescu", "destination": "/contact", "permanent": true },
+    { "source": "/contact-george-popescu/", "destination": "/contact", "permanent": true },
+    { "source": "/insights-george-popescu", "destination": "/insights", "permanent": true },
+    { "source": "/insights-george-popescu/", "destination": "/insights", "permanent": true },
+    { "source": "/bootstrapping-build-without-venture-capital/", "destination": "/bootstrapping-build-without-venture-capital", "permanent": true },
+    { "source": "/customer-revenue-best-funding-source/", "destination": "/customer-revenue-best-funding-source", "permanent": true },
+    { "source": "/hardest-problems-best-opportunities/", "destination": "/hardest-problems-best-opportunities", "permanent": true },
+    { "source": "/venture-capital-vs-bootstrapping/", "destination": "/venture-capital-vs-bootstrapping", "permanent": true }
+  ]
+}
