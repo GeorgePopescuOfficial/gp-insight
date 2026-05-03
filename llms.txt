@@ -1,0 +1,19 @@
+# George Popescu Insights
+
+> Reflections on building companies, taking risk, and staying sane in unstable times.
+
+George Popescu Insights collects personal lessons from bootstrapping, exits, and experiments with technology. Topics include building from zero without venture capital, using customer revenue as the best funding source, and finding opportunity in hard problems. Opinions only — not investment, legal, or business advice.
+
+## Pages
+
+- [Home](https://georgepopescuinsights.com/): Overview of core themes
+- [About George Popescu](https://georgepopescuinsights.com/about.html): Background and experience
+- [Insights](https://georgepopescuinsights.com/insights.html): Full archive of articles
+- [Contact](https://georgepopescuinsights.com/contact.html): Get in touch
+
+## Key Articles
+
+- [Bootstrapping: Build Without Venture Capital](https://georgepopescuinsights.com/bootstrapping-build-without-venture-capital.html)
+- [Customer Revenue: The Best Funding Source](https://georgepopescuinsights.com/customer-revenue-best-funding-source.html)
+- [The Hardest Problems Are the Best Opportunities](https://georgepopescuinsights.com/hardest-problems-best-opportunities.html)
+- [Venture Capital vs Bootstrapping](https://georgepopescuinsights.com/venture-capital-vs-bootstrapping.html)
